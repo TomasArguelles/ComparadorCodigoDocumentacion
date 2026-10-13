@@ -1,6 +1,6 @@
 # ComparadorCodigoDocumentacion
 Herramienta que compare documentación con código y devuelva si hay funciones sin documentar
-  -	Usaremos forma de documentación de Java
+  -	Usaremos forma de documentación de Javadoc
     -	<Nombre de función>:
     -	<Parametro 1>:
     -	<Parametro 2>:
